@@ -1,22 +1,15 @@
-# python-basics
-# Python Learning Journey
+# Python Basics
 
-This repository contains my first steps learning Python.
+My first GitHub repository for learning Python and Data Science.
 
 ## About me
 
 I am a student of Applied Mathematics and Data Science.
 
-## Topics
+## Learning goals
 
-- Python basics
-- Functions
-- Data structures
+- Python programming
 - Data analysis
+- Machine learning
 - Numerical methods
-
-## Tools
-
-- Python
-- Jupyter Notebook
-- VS Code
+- Building my first projects
